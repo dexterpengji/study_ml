@@ -1,5 +1,6 @@
 This repo documents my roadmap to be am MLE.
 
+Progress
 - 06/21/2025 Pytorch Official Tutorial
     - [PyTorch Tutorial Doc - basics for beginner](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
     - trained a model for my first time
@@ -11,3 +12,7 @@ This repo documents my roadmap to be am MLE.
 - 06/27/2025 Maths behind Neural networks
     - [Neural networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
     - neural networks relevant concepts including transformer
+
+TO-DO 
+- get familiar with popular toolings and pipelines
+- code the transformer line by line in python with detailed comments
